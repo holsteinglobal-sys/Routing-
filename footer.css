@@ -1,0 +1,21 @@
+
+.footer {
+  background-color: #1f2937;   /* dark gray */
+  color: #ffffff;
+  text-align: center;
+  padding: 105px 10px;
+  font-size: 14px;
+}
+
+/* Optional: keep footer at bottom if page has less content */
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #1f2937;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+
